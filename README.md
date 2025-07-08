@@ -3,11 +3,11 @@
 ## Certifications earned 🏅📚
 Here is a curated list of my verified certificates earned while learning different technologies.
 
--> 🐍 **Python basics** - [ScalerTopics/28-06-2025]
--> 💻 **C programming** - [simplilearn/30-06-2025]
+-> 🐍 **Python basics** - [ScalerTopics/28-06-2025](./python certificate.png)
+-> 💻 **C programming** - [simplilearn/30-06-2025](./c basics certificate.pdf)
 
 ### Databases 🗃️
--> 👩‍💻 **SQL for beginners** - [ScalerTopics/06-07-2025]
+-> 👩‍💻 **SQL for beginners** - [ScalerTopics/06-07-2025](./sql certificate.png)
 
 ### Mini project 💻
 -> 🌸 **Aesthetic To-do-list Web App project using HTML,CSS,JS,Flask(Python)** *(In progress)*
